@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment Basic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="noreen">Noreen</string>
+    <string name="todo3">TODO</string>
+    <string name="aku_di_home">Aku di Home</string>
+    <string name="todo4">TODO</string>
+    <string name="aku_di_notification">Aku di Notification</string>
+    <string name="aku_di_settings">Aku di Settings</string>
+    <string name="todo">TODO</string>
+</resources>
